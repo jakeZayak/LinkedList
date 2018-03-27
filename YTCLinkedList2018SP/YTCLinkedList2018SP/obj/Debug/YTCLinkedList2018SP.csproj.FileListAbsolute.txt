@@ -1,0 +1,26 @@
+E:\2018SP\CPT-244\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\bin\Debug\YTCLinkedList2018SP.exe.config
+E:\2018SP\CPT-244\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\bin\Debug\YTCLinkedList2018SP.exe
+E:\2018SP\CPT-244\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\bin\Debug\YTCLinkedList2018SP.pdb
+E:\2018SP\CPT-244\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\obj\Debug\YTCLinkedList2018SP.csprojResolveAssemblyReference.cache
+E:\2018SP\CPT-244\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\obj\Debug\YTCLinkedList2018SP.exe
+E:\2018SP\CPT-244\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\obj\Debug\YTCLinkedList2018SP.pdb
+C:\Users\jthomas2600\OneDrive - York Technical College\Teaching\2018SP\CPT-244\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\bin\Debug\YTCLinkedList2018SP.exe.config
+C:\Users\jthomas2600\OneDrive - York Technical College\Teaching\2018SP\CPT-244\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\bin\Debug\YTCLinkedList2018SP.exe
+C:\Users\jthomas2600\OneDrive - York Technical College\Teaching\2018SP\CPT-244\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\bin\Debug\YTCLinkedList2018SP.pdb
+C:\Users\jthomas2600\OneDrive - York Technical College\Teaching\2018SP\CPT-244\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\obj\Debug\YTCLinkedList2018SP.csprojResolveAssemblyReference.cache
+C:\Users\jthomas2600\OneDrive - York Technical College\Teaching\2018SP\CPT-244\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\obj\Debug\YTCLinkedList2018SP.csproj.CoreCompileInputs.cache
+C:\Users\jthomas2600\OneDrive - York Technical College\Teaching\2018SP\CPT-244\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\obj\Debug\YTCLinkedList2018SP.exe
+C:\Users\jthomas2600\OneDrive - York Technical College\Teaching\2018SP\CPT-244\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\obj\Debug\YTCLinkedList2018SP.pdb
+Z:\DataStructures\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\bin\Debug\YTCLinkedList2018SP.exe.config
+Z:\DataStructures\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\bin\Debug\YTCLinkedList2018SP.exe
+Z:\DataStructures\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\bin\Debug\YTCLinkedList2018SP.pdb
+Z:\DataStructures\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\obj\Debug\YTCLinkedList2018SP.csprojResolveAssemblyReference.cache
+Z:\DataStructures\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\obj\Debug\YTCLinkedList2018SP.csproj.CoreCompileInputs.cache
+Z:\DataStructures\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\obj\Debug\YTCLinkedList2018SP.exe
+Z:\DataStructures\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\obj\Debug\YTCLinkedList2018SP.pdb
+E:\DataStructures\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\bin\Debug\YTCLinkedList2018SP.exe.config
+E:\DataStructures\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\bin\Debug\YTCLinkedList2018SP.exe
+E:\DataStructures\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\bin\Debug\YTCLinkedList2018SP.pdb
+E:\DataStructures\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\obj\Debug\YTCLinkedList2018SP.csprojResolveAssemblyReference.cache
+E:\DataStructures\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\obj\Debug\YTCLinkedList2018SP.exe
+E:\DataStructures\YTCLinkedList2018SP\YTCLinkedList2018SP\YTCLinkedList2018SP\obj\Debug\YTCLinkedList2018SP.pdb
